@@ -1,0 +1,6 @@
+{
+  "name": "InstaGram",
+  "description": "A full-featured Instagram clone with Feed, Stories, Reels, Explore Grid, Direct Messages, Post Creation, Comments, Likes, and Profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
